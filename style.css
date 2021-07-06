@@ -96,8 +96,32 @@ p{
     width:350px;
 
 }
-.food-con{
+.food-cont{
     margin-left: 8%;
     margin-right: 8%;
+    margin-bottom: 6%;
     
+    }
+
+    .social-media{
+       margin-left: 7%;
+       margin-right: 6%;
+       box-shadow: 0 0 20px grey;
+       border-radius: 35px;
+       margin-bottom: 70px;
+    }
+    .social-media-div{
+        margin-left: 14%;
+        margin-right: 4%;
+        padding: 15px;
+    }
+
+    .last-div{
+        text-align: center;
+        background-color: rgb(167, 144, 154);
+        padding: 50px;
+    }
+
+    #last-p{
+        color: white;
     }
