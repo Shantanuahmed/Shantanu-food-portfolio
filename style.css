@@ -2,6 +2,22 @@ body
 {font-family: 'Roboto Condensed', sans-serif;
     margin: 0px;
 }
+.heading{
+    background-image: url(images/cover.jpg);
+    height: 500px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding-top: 7%;
+    text-align: center;
+}
+#heading-1{
+    color: rgb(212, 14, 30);
+    font-size: 80px;
+}
+#heading-2{
+    color: gold;
+    font-size: 120px;
+}
 
 .flexible-container{
     display: flex;
