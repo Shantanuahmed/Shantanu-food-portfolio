@@ -5,9 +5,7 @@ body
 
 .flexible-container{
     display: flex;
-    
-    
-}
+    }
 
 .div-width{
     width: 50%;
@@ -89,12 +87,8 @@ p{
     border-radius: 40px;
     margin: 15px;
     }
-
-
-
 .food-img{
     width:350px;
-
 }
 .food-cont{
     margin-left: 8%;
@@ -116,7 +110,7 @@ p{
         padding: 15px;
     }
 
-    .last-div{
+    footer{
         text-align: center;
         background-color: rgb(167, 144, 154);
         padding: 50px;
