@@ -1,0 +1,103 @@
+body
+{font-family: 'Roboto Condensed', sans-serif;
+    margin: 0px;
+}
+
+.flexible-container{
+    display: flex;
+    
+    
+}
+
+.div-width{
+    width: 50%;
+}
+h1{
+    font-size: 55px;
+}
+h2{
+    font-size: 35px;
+}
+h3{
+    font-size: 25px;
+}
+p{
+    font-size: 21px;
+}
+
+.headline-text{
+    color: chartreuse;  
+}
+
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(rgb(146, 120, 124),rgb(80, 73, 72));
+    border-radius: 30px;
+    padding: 20px;
+    color: white;
+    box-shadow: 0 0 50px gray;
+}
+
+.first-img{
+    width: 90%;
+    margin-top: 6%;
+    margin-left: 5%;
+}
+
+.div-margin{
+    margin-top: 10%;
+    margin-left: 5%;
+}
+
+.second-img{
+    width: 70.2%;
+    margin-left: 20%;
+    margin-top: 7%;
+    margin-right: 5%;
+
+}
+
+.div2-margin{
+    margin-top: 10%;
+    margin-right: 10%;
+    margin-left: 10%;
+    text-align: justify;
+    
+}
+
+.headline-position{
+    text-align: center;
+}
+
+.bg-img{
+    background-image: url(images/bg1.jpg);
+   background-repeat: no-repeat;
+   background-size: 100%;
+   margin-bottom: 80px;
+   margin-top: 80px;
+}
+
+
+.lone-div{
+    text-align: center;
+}
+
+.food-sec{
+    width: 40%;
+    padding: 25px;
+    box-shadow: 0 0 15px grey;
+    border-radius: 40px;
+    margin: 15px;
+    }
+
+
+
+.food-img{
+    width:350px;
+
+}
+.food-con{
+    margin-left: 8%;
+    margin-right: 8%;
+    
+    }
