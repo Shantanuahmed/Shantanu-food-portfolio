@@ -136,3 +136,28 @@ p{
     #last-p{
         color: white;
     }
+
+    @media only screen and (max-width:688px) {
+
+        .heading{
+            height: 100%;
+            width: 100%;
+        }
+
+        .div-width{
+            width: 100%;
+        }
+        .flexible-container{
+            flex-direction: column;
+        }
+        
+        .food-sec{
+            width: 100%;
+        }
+        .food-img{
+            width: 100%;
+        }
+        .div2-margin{
+            margin: 0%;
+        }
+    }
